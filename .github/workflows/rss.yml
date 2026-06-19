@@ -1,0 +1,19 @@
+name: Actualizar RSS
+
+on:
+workflow_dispatch:
+schedule:
+- cron: '5 3 * * *'
+
+jobs:
+actualizar:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
+
+  - name: Mostrar fecha
+    run: date
+```
