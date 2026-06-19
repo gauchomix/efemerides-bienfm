@@ -1,0 +1,48 @@
+{
+"06-20": {
+"argentina": [
+{
+"titulo": "Día de la Bandera",
+"descripcion": "Se conmemora el fallecimiento de Manuel Belgrano, creador de la bandera argentina."
+},
+{
+"titulo": "1820 - Fallece Manuel Belgrano",
+"descripcion": "Murió uno de los principales próceres de la independencia argentina."
+},
+{
+"titulo": "1810 - Nace Juan Bautista Alberdi",
+"descripcion": "Jurista y pensador fundamental para la organización nacional."
+},
+{
+"titulo": "1982 - Fin de la Guerra de Malvinas",
+"descripcion": "Concluyó el conflicto bélico del Atlántico Sur."
+},
+{
+"titulo": "Efeméride argentina destacada",
+"descripcion": "Contenido de prueba para completar el grupo diario."
+}
+],
+"internacional": [
+{
+"titulo": "1815 - Batalla de Waterloo",
+"descripcion": "Napoleón Bonaparte sufrió su derrota definitiva."
+},
+{
+"titulo": "Día Mundial del Refugiado",
+"descripcion": "Fecha promovida por las Naciones Unidas."
+},
+{
+"titulo": "1945 - Carta de las Naciones Unidas",
+"descripcion": "Se consolidó la creación de la ONU."
+},
+{
+"titulo": "1789 - Juramento del Juego de Pelota",
+"descripcion": "Hecho clave de la Revolución Francesa."
+},
+{
+"titulo": "Efeméride internacional destacada",
+"descripcion": "Contenido de prueba para completar el grupo diario."
+}
+]
+}
+}
