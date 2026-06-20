@@ -1,15 +1,18 @@
-name: Actualizar RSS
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Efemérides BIEN FM</title>
+    <link>https://bienfm.com.ar</link>
+    <description>Efemérides Argentinas e Internacionales</description>
+    <language>es-ar</language>
 
-on:
-  workflow_dispatch:
+    <item>
+      <title>Prueba de funcionamiento</title>
+      <link>https://bienfm.com.ar</link>
+      <description>El RSS de Efemérides BIEN FM está funcionando correctamente.</description>
+      <pubDate>Sat, 20 Jun 2026 12:00:00 GMT</pubDate>
+      <guid>prueba-001</guid>
+    </item>
 
-jobs:
-  actualizar:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Mostrar fecha
-        run: date
+  </channel>
+</rss>
