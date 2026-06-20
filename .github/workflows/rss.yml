@@ -1,15 +1,10 @@
-name: Actualizar RSS
+name: Test
 
 on:
   workflow_dispatch:
 
 jobs:
-  actualizar:
+  test:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Mostrar fecha
-        run: date
+      - run: echo "Hola"
